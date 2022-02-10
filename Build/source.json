@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "chat",
+"productVersion": "1.0",
+"dataUrl": "source.data.unityweb",
+"wasmCodeUrl": "source.wasm.code.unityweb",
+"wasmFrameworkUrl": "source.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
